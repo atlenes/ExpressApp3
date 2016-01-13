@@ -1,0 +1,16 @@
+{
+  "name": "ExpressApp3",
+  "version": "0.0.0",
+  "description": "ExpressApp3",
+  "main": "app.js",
+  "author": {
+    "name": "Atle",
+    "email": ""
+  },
+  "dependencies": {
+    "azure": "^0.10.6",
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
